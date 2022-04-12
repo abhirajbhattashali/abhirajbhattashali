@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhirajbhattashali
-- 👀 I’m interested in IOS App Development, Python programming 
+- 👀 I’m interested in IOS App Development, Python and Java programming 
 - 🌱 I’m currently learning IOS App Development
-- 💞️ I’m looking to collaborate on IOS Applications, Python Applicationa 
+- 💞️ I’m looking to collaborate on IOS Applications, Python Applications
 - 📫 How to reach me ...
 
 <!---
