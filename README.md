@@ -2,7 +2,7 @@
 - 👀 I’m interested in IOS App Development, Python and Java programming 
 - 🌱 I’m currently learning IOS App Development
 - 💞️ I’m looking to collaborate on IOS Applications, Python Applications
-- 📫 How to reach me ...
+
 
 <!---
 abhirajbhattashali/abhirajbhattashali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
