@@ -8,7 +8,7 @@ Welcome to my GitHub repository! This is the README file that provides an overvi
   <img src="https://img.icons8.com/color/96/000000/swift.png" alt="Swift" width="60" height="60" />
   <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="60" height="60" />
   <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" width="60" height="60" />
-  <img src="https://img.icons8.com/color/96/000000/r-project.png" alt="R" width="60" height="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" alt="R" width="60" height="60" />
   <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" width="60" height="60" />
   <img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="C" width="60" height="60" />
   <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" alt="C++" width="60" height="60" />
