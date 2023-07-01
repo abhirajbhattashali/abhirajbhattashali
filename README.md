@@ -23,5 +23,7 @@ In my GitHub repositories, you'll find a collection of projects showcasing my sk
 If you have any questions, suggestions, or collaboration proposals,reach out to me.  
 
 Looking forward to connect with ya!
-
-Abhiraj
+<p align = "left">
+<img src="https://img.icons8.com/color/96/000000/swift.png" alt="Swift" width="60" height="60" />
+Dev Abhiraj
+</p>
