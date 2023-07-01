@@ -1,6 +1,10 @@
-# iOS Developer
+# <p align="left">
+<p align="LEFT">
+  <img src="https://img.icons8.com/color/96/000000/swift.png" alt="Swift" width="30" height="30" align="top" /> <span style="display: inline-block; vertical-align: middle; font-size: 24px"><strong>DEVELOPER</strong></span>
+</p>
 
-Welcome to my GitHub repository! This is the README file that provides an overview of my skills and projects as an iOS Developer. Please feel free to explore the repositories and contact me if you have any questions or collaboration opportunities.
+
+Welcome to my GitHub repository! This is the README file that provides an overview of my skills and projects as a Developer. Please feel free to explore the repositories and contact me if you have any questions or collaboration opportunities.
 
 ## Skills
 
