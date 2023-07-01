@@ -1,6 +1,6 @@
 # <p align="left">
 <p align="LEFT">
-  <img src="https://img.icons8.com/color/96/000000/swift.png" alt="Swift" width="30" height="30" align="top" /> <span style="display: inline-block; vertical-align: middle; font-size: 24px"><strong>DEVELOPER</strong></span>
+  <img src="https://img.icons8.com/color/96/000000/swift.png" alt="Swift" width="30" height="30" align="top" /> <span style="display: inline-block; vertical-align: middle; font-size: 24px"><strong>ABHIRAJ BHATTASHALI</strong></span>
 </p>
 
 
