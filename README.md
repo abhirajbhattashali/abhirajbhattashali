@@ -16,6 +16,7 @@ Welcome to my GitHub repository! This is the README file that provides an overvi
   <img src="https://img.icons8.com/color/96/000000/firebase.png" alt="Firebase" width="60" height="60" />
   <img src="https://img.icons8.com/color/96/000000/sql.png" alt="SQL" width="60" height="60" />
 </p>
+
 ## Projects
 
 In my GitHub repositories, you'll find a collection of projects showcasing my skills and expertise as an iOS Developer. Feel free to explore them to get an idea of my work.
@@ -23,7 +24,3 @@ In my GitHub repositories, you'll find a collection of projects showcasing my sk
 If you have any questions, suggestions, or collaboration proposals,reach out to me.  
 
 Looking forward to connect with ya!
-<p align = "left">
-<img src="https://img.icons8.com/color/96/000000/swift.png" alt="Swift" width="60" height="60" />
-Dev Abhiraj
-</p>
