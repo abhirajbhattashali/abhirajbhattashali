@@ -4,7 +4,7 @@
 </p>
 
 
-Welcome to my GitHub repository! This is the README file that provides an overview of my skills and projects as a Developer. Please feel free to explore the repositories and contact me if you have any questions or collaboration opportunities.
+Welcome to my GitHub repository! This is the README file that provides an overview of my skills and projects as a Software Developer. Please feel free to explore the repositories and contact me if you have any questions or collaboration opportunities.
 
 ## Skills
 
@@ -23,7 +23,7 @@ Welcome to my GitHub repository! This is the README file that provides an overvi
 
 ## Projects
 
-In my GitHub repositories, you'll find a collection of projects showcasing my skills and expertise as an iOS Developer. Feel free to explore them to get an idea of my work.
+In my GitHub repositories, you'll find a collection of projects showcasing my skills and expertise as a Software Developer. Feel free to explore them to get an idea of my work.
 
 If you have any questions, suggestions, or collaboration proposals,reach out to me.  
 
