@@ -16,6 +16,7 @@ Welcome to my GitHub repository! This is the README file that provides an overvi
   <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" width="60" height="60" />
   <img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="C" width="60" height="60" />
   <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" alt="C++" width="60" height="60" />
+  <img src="https://github.com/abhirajbhattashali/abhirajbhattashali/assets/60516848/ae284c38-a0a8-4ef0-ad00-f6ee41f9d3d2 " alt="C#" width="54" height="58" />
   <img src="https://img.icons8.com/color/96/000000/swiftui.png" alt="SwiftUI" width="60" height="60" />
   <img src="https://img.icons8.com/color/96/000000/firebase.png" alt="Firebase" width="60" height="60" />
   <img src="https://img.icons8.com/color/96/000000/sql.png" alt="SQL" width="60" height="60" />
@@ -28,3 +29,6 @@ In my GitHub repositories, you'll find a collection of projects showcasing my sk
 If you have any questions, suggestions, or collaboration proposals,reach out to me.  
 
 Looking forward to connect with ya!
+
+
+
